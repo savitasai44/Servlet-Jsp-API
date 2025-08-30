@@ -7,11 +7,11 @@ Servlet present in Jakarta package.
 
 <h3>Servlet Life cycle</h3>
 <ol>
-  <li>1) Servlet is loaded
-2) Servlet is Instantiated
-3) Servlet is Initialized (init)
-4) Service the Request(Request Handling) (service)
-5) Servlet is Destroyed (destroy)
+  <li>1) Servlet is loaded</li>
+<li> Servlet is Instantiated</li>
+<li> Servlet is Initialized (init)</li>
+<li>Service the Request(Request Handling) (service)</li>
+ <li>Servlet is Destroyed (destroy)</li>
  
 </li>
 </ol>
