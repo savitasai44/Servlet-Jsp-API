@@ -1,4 +1,4 @@
-<h2>Servlet</h2><br><br>
+<h2>Servlet</h2><br>
 <h4>Servlet is a server side technology.
 it is an API(Application Programming Interface) for java Language.
 Servlet present in Jakarta package.
